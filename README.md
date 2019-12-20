@@ -10,7 +10,7 @@
 
 ## Using `fcheatsheets`
 
-The default directory for cheatsheets from `fcheat` is `~/.config/fcheat`. Change to this directory and clone this repository.
+The default directory for cheatsheets from `fcheat` is `~/.config/fcheatsheets`. Change to this directory and clone this repository.
 
 ```bash
 cd ~/.config/fcheat # or your preferred directory
