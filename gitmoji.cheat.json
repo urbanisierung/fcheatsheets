@@ -1,0 +1,67 @@
+[
+  {
+    "title": "🎉 Initial (NEW) commit.",
+    "tags": ["gitmoji"],
+    "command": ":tada:"
+  },
+  {
+    "title": "🚧 Work in progress.",
+    "tags": ["gitmoji"],
+    "command": ":construction:"
+  },
+  {
+    "title": "🚑 Critical hotfix.",
+    "tags": ["gitmoji"],
+    "command": ":ambulance:"
+  },
+  {
+    "title": "✨ Introducing new features.",
+    "tags": ["gitmoji"],
+    "command": ":sparkles:"
+  },
+  {
+    "title": "🍻 Writing code drunkenly.",
+    "tags": ["gitmoji"],
+    "command": ":beers:"
+  },
+  {
+    "title": "💩 Writing bad code that needs to be improved.",
+    "tags": ["gitmoji"],
+    "command": ":hankey:"
+  },
+  {
+    "title": "🚨 Removing linter warnings.",
+    "tags": ["gitmoji"],
+    "command": ":rotating_light:"
+  },
+  {
+    "title": "⏪ Reverting changes.",
+    "tags": ["gitmoji"],
+    "command": ":rewind:"
+  },
+  {
+    "title": "⚗ Experimenting new things",
+    "tags": ["gitmoji"],
+    "command": ":alembic:"
+  },
+  {
+    "title": "🔒 Fixing security issues.",
+    "tags": ["gitmoji"],
+    "command": ":lock:"
+  },
+  {
+    "title": "⚡️ Improving performance.",
+    "tags": ["gitmoji"],
+    "command": ":zap:"
+  },
+  {
+    "title": "🚸 Improving user experience / usability.",
+    "tags": ["gitmoji"],
+    "command": ":children_crossing:"
+  },
+  {
+    "title": "🐛 Fixing a bug.",
+    "tags": ["gitmoji"],
+    "command": ":bug:"
+  }
+]
