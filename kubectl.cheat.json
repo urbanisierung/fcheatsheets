@@ -1,0 +1,22 @@
+[
+  {
+    "title": "kubectl connect to a pod",
+    "tags": ["kubectl", "k8s", "pod", "connect"],
+    "command": "kubectl exec -it -n ${namespace} ${pod} -- /bin/bash"
+  },
+  {
+    "title": "kubectl get current context",
+    "tags": ["kubectl", "k8s", "context"],
+    "command": "kubectl config current-context"
+  },
+  {
+    "title": "copy files from/to pod",
+    "tags": ["kubectl", "k8s", "copy"],
+    "command": "k cp ${namespace}/${pod-id}:${filename} ${localPath}"
+  },
+  {
+    "title": "kubectl port forwarding",
+    "tags": ["kubectl", "k8s", "port", "forwarding"],
+    "command": "k -n ${ns} port-forward ${pod} ${remote-port}:${local-port}"
+  }
+]
