@@ -18,5 +18,10 @@
     "title": "kubectl port forwarding",
     "tags": ["kubectl", "k8s", "port", "forwarding"],
     "command": "k -n ${ns} port-forward ${pod} ${remote-port}:${local-port}"
+  },
+  {
+    "title": "kubectl change replicas or turn off pod",
+    "tags": ["kubectl", "k8s", "replicas", "turnoff"],
+    "command": "k scale -n ${ns} deployment ${deployment} --replicas=0"
   }
 ]
